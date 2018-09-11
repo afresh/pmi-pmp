@@ -1,2 +1,3 @@
 # pmi-pmp
-PMBOK第六版学习笔记
+**《PMBOK® 指南》** 学习笔记。
+***PMBOK® GUIDE***  LEARNING NOTES.
