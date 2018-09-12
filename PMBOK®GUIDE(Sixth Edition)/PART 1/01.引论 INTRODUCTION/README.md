@@ -11,11 +11,11 @@ Mistakes are unavoidable in the process of writing notes. If you find something 
 > 例：注意事项中，“以便其他读者和我们更好的理解您的意思”中的“意思”改为“问题”更加合适。  
 > example: In 'us can better understand what you mean', 'issue' is better to instead of 'mean'.  
 > 
-> 当前结果  
+> 当前结果 CURRENT RESULT  
 > 例：意思  
 > example: mean  
 > 
-> 期望结果  
+> 期望结果 EXPECTED RESULT  
 > 例：问题  
 > example: issue  
 > 
