@@ -33,4 +33,36 @@
 * 项目可以在 ***组织的任何层面*** 上开展。一个项目可能只涉及 ***一个人*** ，也可能涉及 ***一组人*** ；可能只涉及 ***一个组织单元*** ，也可能涉及 ***多个组织的多个单元*** 。
   
     Projects are undertaken ***at all organizational levels***. A project can involve ***a single individual*** or ***a group***. A project can involve ***a single organizational unit*** or ***multiple organizational units from multiple organizations***.
+
+* **临时性** 工作是指项目 ***有明确的起点和终点*** 。
     
+    The ***temporary*** nature of projects indicates that a project ***has a deﬁnite beginning and end***.
+
+* 项目 **宣告结束** 的情况，可能有以下一种或多种：
+
+    **The end of the project** is reached when one or more of the following is true:
+    
+  * ***达成项目目标；***
+
+    ***The project’s objectives have been achieved;***
+
+  * ***不会或不能达到目标；***
+
+    ***The objectives will not or cannot be met;***
+
+  * ***项目资金缺乏或没有可分配资金；***
+
+    ***Funding is exhausted or no longer available for allocation to the project;***
+
+  * ***项目需求不复存在***（例如，客户不再要求完成项目，战略或优先级的变更致使项目终止，组织管理层下达终止项目的指示）；
+
+    ***The need for the project no longer exists*** (e.g., the customer no longer wants the project completed, a change in strategy or priority ends the project, the organizational management provides direction to end the project);
+
+  * ***无法获得所需人力或物力资源；***
+
+    ***The human or physical resources are no longer available;***
+
+  * ***出于法律或便利原因而终止项目。***
+
+    ***The project is terminated for legal cause or convenience.***
+
