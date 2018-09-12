@@ -24,9 +24,14 @@ Mistakes are unavoidable in the process of writing notes. If you find something 
 ## 目录 TABLE OF CONTENTS
 
 
+* [首页 HOME](https://github.com/afresh/pmi-pmp)
+* [1.引论 INTRODUCTION](https://github.com/afresh/pmi-pmp/tree/master/PMBOK%C2%AEGUIDE(Sixth%20Edition)/PART%201/01.%E5%BC%95%E8%AE%BA%20INTRODUCTION)
+
+
+## 导航 NAVIGATION
+
+
 * [知识点 KNOWLEDGE POINTS](#知识点-KNOWLEDGE-POINTS)
-* [HOME](https://github.com/afresh/pmi-pmp)
-* [README](./README.md)
 
 
 ### 知识点 KNOWLEDGE POINTS
