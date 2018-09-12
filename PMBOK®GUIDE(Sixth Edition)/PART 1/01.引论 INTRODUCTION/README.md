@@ -12,12 +12,12 @@ Mistakes are unavoidable in the process of writing notes. If you find something 
 > example: In 'us can better understand what you mean', 'issue' is better to instead of 'mean'.  
 > 
 > 当前结果 
-> 例：意思
-> example: mean
+> 例：意思  
+> example: mean  
 > 
 > 期望结果
-> 例：问题
-> example: issue
+> 例：问题  
+> example: issue  
 > 
 
 
