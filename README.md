@@ -29,3 +29,4 @@ Mistakes are unavoidable in the process of writing notes. If you find something 
 
 * [首页 HOME](https://github.com/afresh/pmi-pmp)
 * [1.引论 INTRODUCTION](https://github.com/afresh/pmi-pmp/tree/master/PMBOK%C2%AEGUIDE(Sixth%20Edition)/PART%201/01.%E5%BC%95%E8%AE%BA%20INTRODUCTION)
+* [资源 RESOURCES](https://github.com/afresh/pmi-pmp/blob/master/PMBOK%C2%AEGUIDE(Sixth%20Edition)/RESOURCES.md)
