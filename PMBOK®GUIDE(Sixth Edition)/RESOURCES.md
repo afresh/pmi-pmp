@@ -34,6 +34,7 @@ Mistakes are unavoidable in the process of writing notes. If you find something 
 
 * [5个过程组和10个知识领域 Project Management Process Group and Knowledge Area Mapping](#5个过程组和10个知识领域-Project-Management-Process-Group-and-Knowledge-Area-Mapping)
 * [项目经理必备的华为十大管理工具模版](https://mp.weixin.qq.com/s/EZhfgerwfQRgySxwC6vVVw)
+* [华为项目管理10大模板Excel版(可直接套用).xls](https://github.com/afresh/pmi-pmp/raw/master/PMBOK%C2%AEGUIDE(Sixth%20Edition)/Resources/%E5%8D%8E%E4%B8%BA%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%8610%E5%A4%A7%E6%A8%A1%E6%9D%BFExcel%E7%89%88(%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%A5%97%E7%94%A8).xls)
 
 
 ### 5个过程组和10个知识领域 Project Management Process Group and Knowledge Area Mapping
