@@ -33,6 +33,7 @@ Mistakes are unavoidable in the process of writing notes. If you find something 
 
 
 * [5个过程组和10个知识领域 Project Management Process Group and Knowledge Area Mapping](#5个过程组和10个知识领域-Project-Management-Process-Group-and-Knowledge-Area-Mapping)
+* [项目经理必备的华为十大管理工具模版](https://mp.weixin.qq.com/s/EZhfgerwfQRgySxwC6vVVw)
 
 
 ### 5个过程组和10个知识领域 Project Management Process Group and Knowledge Area Mapping
