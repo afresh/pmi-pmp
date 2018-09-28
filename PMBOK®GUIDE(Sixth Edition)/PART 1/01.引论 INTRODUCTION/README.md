@@ -89,37 +89,70 @@ Mistakes are unavoidable in the process of writing notes. If you find something 
 
     ***The project is terminated for legal cause or convenience.***
 
-* **项目创造商业价值。** 
+* **项目创造商业价值。**
+
+  **Projects enable business value creation.**
 
 * 项目的 **商业价值** 指特定项目的成果能够为相关方带来的效益。项目带来的效益可以是 ***有形的、无形的或两者兼有之*** 。
 
+  **Business value** in projects refers to the beneﬁt that the results of a speciﬁc project provide to its stakeholders. The beneﬁt from projects may be ***tangible, intangible, or both*** .
+
 * **项目启动背景** 组织领导者启动项目是为了应对影响该组织的因素。这些基本因素说明了项目背景，大致分为四类：
+
+  **Project Initiation Context** Organizational leaders initiate projects in response to factors acting upon their organizations. There are four fundamental categories for these factors, which illustrate the context of a project:
 
   * ***符合法律、法规或社会要求；***
 
+    ***Meet regulatory, legal, or social requirements;***
+
   * ***满足相关方的要求和需求；***
+
+    ***Satisfy stakeholder requests or needs;***
 
   * ***执行、变更业务或技术战略；***
 
+    ***Implement or change business or technological strategies;***
+
   * ***创造、改进或修复产品、过程或服务。***
+
+    ***Create, improve, or ﬁx products, processes, or services.***
 
 * **项目管理** 就是将知识、技能、工具与技术应用于项目活动，以满足项目的要求。项目管理通过合理运用与整合特定项目所需的项目管理过程得以实现。 ***项目管理*** 使组织能够有效且高效地开展项目。
 
+  **Project management** is the application of knowledge, skills, tools, and techniques to project activities to meet the project requirements. Project management is accomplished through the appropriate application and integration of the project management processes identiﬁed for the project. ***Project management*** enables organizations to execute projects effectively and efﬁciently
+
 * 项目 **管理不善** 或 **缺乏项目管理经验** 可能会导致：
+
+  **Poorly managed projects or the absence of project management** may result in:
 
   * ***超过时限；***
 
+    ***Missed deadlines;***
+
   * ***成本超支；***
+
+    ***Cost overruns;***
   
   * ***质量低劣；***
 
+    ***Poor quality;***
+
   * ***返工；***
 
+    ***Rework;***
+
   * ***项目范围扩大失控；***
+
+    ***Uncontrolled expansion of the project;***
   
   * ***组织声誉受损；***
 
+    ***Loss of reputation for the organization;***
+
   * ***相关方不满意；***
+
+    ***Unsatisﬁed stakeholders;***
 
   * ***正在实施的项目无法达成目标。***
 
+    ***Failure in achieving the objectives for which the project was undertaken.***
